@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Option AI Analyzer Bot",
+  "description": "Professional market analysis and decision-support Telegram bot for Pocket Option fixed-time trading, featuring SMC structure, liquidity sweeps, confluence scoring, and multi-timeframe analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

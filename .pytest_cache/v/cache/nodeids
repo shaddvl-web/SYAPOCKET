@@ -1,0 +1,16 @@
+[
+  "tests/test_api.py::test_api_analyze_endpoint",
+  "tests/test_api.py::test_health_endpoint",
+  "tests/test_api.py::test_status_endpoint",
+  "tests/test_confluence.py::test_confluence_high_quality_call",
+  "tests/test_confluence.py::test_confluence_under_70_forces_no_trade",
+  "tests/test_database.py::test_database_lifecycle",
+  "tests/test_indicators.py::test_indicators_calculation",
+  "tests/test_indicators.py::test_rsi_overbought_oversold",
+  "tests/test_liquidity.py::test_liquidity_buy_side_sweep",
+  "tests/test_master_engine.py::test_master_engine_conflict_forces_no_trade",
+  "tests/test_master_engine.py::test_master_engine_full_pipeline_bullish",
+  "tests/test_router.py::test_data_router_fallback_and_cache",
+  "tests/test_router.py::test_synthetic_provider_determinism",
+  "tests/test_structure.py::test_structure_close_based_bos_bullish"
+]
